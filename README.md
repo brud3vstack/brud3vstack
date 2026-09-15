@@ -4,6 +4,7 @@
   <br/><br/>
 
   <!-- Redes Sociais / Links -->
+  <a href="https://www.linkedin.com/in/bru-dev-411212437?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pinterest.com"><img src="https://img.shields.io/badge/PINTEREST-black?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://www.tiktok.com/@bru_d3v_?_r=1&_t=ZS-99jvkhaJbLY"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://www.instagram.com/bru_d3v_?stkn=MTU5ZzF5c2NuOWE1YQ=="><img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -47,11 +48,12 @@
 <h2 align="center">🗠 Statistics</h2>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brud3vstack&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brud3vstack&theme=dark&hide_border=false&border_color=30363d&background=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brud3vstack&theme=dark" width="100%" alt="Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brud3vstack&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117" width="100%" alt="Top Languages" />
 </div>
