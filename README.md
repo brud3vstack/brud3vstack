@@ -48,12 +48,5 @@
 <h2 align="center">🗠 Statistics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brud3vstack&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brud3vstack&theme=dark&hide_border=false&border_color=30363d&background=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brud3vstack&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117" width="100%" alt="Top Languages" />
 </div>
